@@ -1,4 +1,4 @@
-## 💛 Olá, meu nome é Amanda Dias!
+## 💛 Olá, seja bem-vindo(a) ao meu GitHub!
 
 Sou estudante de Engenharia de Software, com experiência em qualidade e processos em TI.
 Estou iniciando minha jornada prática em desenvolvimento, e este espaço será atualizado com meus projetos de estudo e prática conforme avanço nos aprendizados.
